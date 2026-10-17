@@ -9,3 +9,6 @@ Kegiatan INTRIVIA 2026 sangat seru, informatif dan memberikan banyak wawasan bar
 
 ## Kesan Pesan Cluster 20 Sejauh Ini 
 teman teman saya di Cluster 20 sangat seru, solid dan saling merangkul satu sama lain. Kakak pendamping Cluster juga sangat perhatian dan selalu memberikan bimbingan dengan sabar saat kami mengalami kesulitan dalam pengerjaaan tugas.
+
+## Harapan Kuliah
+Harapan saya selama menempuh perkuliahan di Teknik Informatika UB adalah dapat menguasai ilmu pemrograman dengan baik, aktif berorganisasi, serta lulus tepat waktu dengan prestasi yang membanggakan.
